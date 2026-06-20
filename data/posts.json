@@ -1,0 +1,12 @@
+[
+  {
+    "title": "QA Testing",
+    "body": "Learning k6 API performance testing",
+    "userId": 1
+  },
+  {
+    "title": "Performance Testing",
+    "body": "Testing GET and POST APIs using k6",
+    "userId": 2
+  }
+]
